@@ -1067,10 +1067,10 @@ select {
   line-height: 1rem;
 }
 .font-medium {
-  font-weight: 500;
+  font-weight: 500 !important;
 }
 .font-semibold {
-  font-weight: 600;
+  font-weight: 600 !important;
 }
 .leading-6 {
   line-height: 1.5rem;
